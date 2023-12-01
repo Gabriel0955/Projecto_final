@@ -1,0 +1,21 @@
+h1{
+    color: forestgreen;
+    text-align: center;
+}
+#menu{
+    text-align: center;
+    
+}
+#enlaces{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgb(32, 240, 5);
+    border-radius: 1rem;
+    background-color: rgb(80, 255, 89);
+    text-decoration: none;
+    color: black;
+    
+}
+#bot{
+    
+}
